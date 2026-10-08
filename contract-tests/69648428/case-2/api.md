@@ -1,3 +1,0 @@
-# API
-
-Body text.
